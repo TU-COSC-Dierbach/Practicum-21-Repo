@@ -1,2 +1,10 @@
-# Practicum-21-Repo
-Repo for Practicum 21 - Java Classes - Assigning and Comparing Objects
+# Instructions
+## Practicum 21 - Assigning and Comparing Objects in Java
+
+**WHAT TO DO**<br>
+- `SingleValue.java` contains a class that simply holds a single integer value.
+- `Main.java` creates three different objects of type SingleValue and compares them for equality.
+- `Update` the code in Main.java so that it CORRECTLY compares values.
+- `Run the predefined test` to ensure that the main has been properly updated.
+- `Submit` your code on Replit.
+
