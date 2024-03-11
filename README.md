@@ -5,6 +5,5 @@
 - `SingleValue.java` contains a class that simply holds a single integer value.
 - `Main.java` creates three different objects of type SingleValue and compares them for equality.
 - `Update` the code in Main.java so that it CORRECTLY compares values.
-- `Run the predefined test` to ensure that the main has been properly updated.
 
 
